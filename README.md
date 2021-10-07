@@ -1,5 +1,7 @@
 # Stepik churn prediction
 
+https://nbviewer.org/github/mosikk/stepik_churn_prediction/blob/master/stepik_churn_prediction.ipynb
+
 Цель: проанализировать активность студентов курса "[Анализ данных в R](https://stepik.org/course/129/promo)" на степике. На основе данных за первые 2 дня предсказать, 
 закончит ли человек курс или бросит его. Курс считается пройденным, если решено не менее 40 задач.
 
